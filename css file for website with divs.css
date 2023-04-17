@@ -1,0 +1,69 @@
+div.header{ height: 42px;
+            font-size:xx-large;
+            color: rgba(21, 156, 116, 0.772);
+}
+
+
+
+div.paragraphs{color:rgb(75, 75, 75);}
+
+
+body{background-color: rgb(172, 229, 212);
+}
+
+
+
+div.content{height: 100px;
+    color: rgb(0, 255, 255);
+    width: 100px;
+    border-style: ridge;
+    border-color: rgb(4, 52, 52);
+    float:left;
+    margin: 20px;
+    }
+
+
+    div#first{background-color: beige;
+        color: rgb(58, 130, 130);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+                
+    div#second{background-color: rgb(58, 130, 130);
+        color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+        
+    div#third{background-color: beige;
+        color: rgb(58, 130, 130);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    div#fourth{background-color: rgb(58, 130, 130);
+        color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    div#fifth{background-color: beige;
+        color: rgb(58, 130, 130);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    div#sixth{background-color: rgb(58, 130, 130);
+        color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div#seventh{background-color: beige;
+    color: rgb(58, 130, 130);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div#eigth{background-color: rgb(58, 130, 130);
+    color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+    
+
+
+
